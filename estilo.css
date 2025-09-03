@@ -1,0 +1,37 @@
+body{
+    margin-left: 100px;
+}
+tituloP{
+    font-family: inter;
+    font-size: 36px;
+    font-weight:bold;
+    line-height: 2.25;
+}
+textoP{
+    font-family: inter;
+    font-size: 16px;
+    line-height: 1.5;
+}
+header{
+    text-align: center;
+}
+content1{
+    font-family: inter;
+}
+titulo2{
+    font-size: 24px;
+    font-weight: bold;
+}
+titulo3{
+    font-family: inter;
+    font-size: 16px;
+    line-height: 2;
+}
+
+content2{
+    font-family: inter;
+}
+a{
+    color: #4E80EE;
+    text-decoration: none;
+}
